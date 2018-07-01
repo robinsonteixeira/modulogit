@@ -1,3 +1,6 @@
 meu primeiro projeto no git
 
-fazendo alteraçoes...
+
+
+aqui apaguei a linha anterior e escrevi
+estas duas novas linhas.
